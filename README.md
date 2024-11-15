@@ -11,7 +11,7 @@ class Life(Creativity):
     def current_projects(self):
         self.currently_learning = "Development C#"
         self.currently_working_on = "Python, DAX, SQL "
-        self.excited_for = "Hack & Social Engineer "
+        self.excited_for = "Hack & Social Engineer and A.I. "
     
     def contact_me(self):
         self.contact = "https://www.linkedin.com/in/data-science-alexy-gimenez"
